@@ -4,8 +4,6 @@ module.exports = {
   siteMetadata: {
     title: `My Gatsby Blog`,
     description: `A blog site created with gatsby and contentful, and hosted on netlify.`,
-    siteUrl: `https://gatsby-contentful-blog-12a.netlify.app/`,
-    author: `@maanizfar`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
